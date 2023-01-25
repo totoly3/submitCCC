@@ -42,7 +42,7 @@ public class FrBoardController {
 	
 	
 	
-	//view 페이지 포워딩 
+		//view 페이지 포워딩 //
 		@RequestMapping("list.fr")
 		public ModelAndView selectList(@RequestParam(value="currentPage",defaultValue="1")int currentPage,
 													ModelAndView  mv,HttpSession session) {

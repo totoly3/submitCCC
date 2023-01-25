@@ -46,11 +46,33 @@ DBMS : 오라클 DB-SQLDeveloper
 팀 협업 도구 : Github
 ERD CLOUD : 
 ![image](https://user-images.githubusercontent.com/118792887/214480751-46c1ce9e-b54a-4220-8221-ee45ed11c886.png)
-제가 구현한 기능
+
+
+===================================================================================================================
+**직접 구현한 기능**
 . ![image](https://user-images.githubusercontent.com/118792887/214479966-de3d7cf1-a33b-4ef8-964d-a29482685f3c.png)
-○ 자유게시판 조회 , 수정 ,삭제. 
+○ 자유게시판 조회 , 수정 ,삭제. 조회수증가
 ○ 자유게시판 페이징 처리.  
+○ 자유게시판 제목,내용,작성자 별 키워드 검색 기능 
 ○ 자유게시판 체크박스 선택 및 삭제 , 전체 선택 및 삭제.
-○ 자유게시판 다중 첨부파일 업로드.
+
+![image](https://user-images.githubusercontent.com/118792887/214481568-2fc557b2-922a-4efe-979c-7e56466b3545.png)
+○ 자유게시판 다중 첨부파일 업로드, 다운로드 기능.
+
+![image](https://user-images.githubusercontent.com/118792887/214481694-65d1af32-ff3e-4044-aaec-2f6c5ed53d14.png)
+○ 자유게시판 댓글 등록,수정,삭제  (Ajax)사용. 
+
+○ 자유게시판 댓글 수정 모달창 이용하여 수정 및 글자수 10자 제한 .
+![image](https://user-images.githubusercontent.com/118792887/214481918-31c5166c-69ab-4da7-9aae-fb1788b96f95.png)
+
+![image](https://user-images.githubusercontent.com/118792887/214481800-fb4bd8c9-1354-40c8-aa8f-73fa34a871b5.png)
+
+○ 팝업창 띄우기 
+![image](https://user-images.githubusercontent.com/118792887/214482204-b3ae895a-a5cc-4101-9ace-6781205ff429.png)
+○ Ajax사용한 이번달 좋아요 TOP3  , 올해 좋아요 TOP3  조회
+○ 아래 캐릭터 명,좋아요 갯수 , 이미지 띄우기.
+![image](https://user-images.githubusercontent.com/118792887/214482274-670f3a0c-7b93-44df-9957-24c7c9f89488.png)
+○ 재미로 사이트 경마게임을 긁어서 적용시켜봄. 
+![image](https://user-images.githubusercontent.com/118792887/214482536-2ec36cdd-6881-40a9-87ff-8330ec14c4fd.png)
 
 

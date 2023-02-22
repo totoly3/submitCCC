@@ -194,6 +194,7 @@
 						  <a href="list.ch">Character</a>
 						  <a href="list.alltimelistgo">CHAx3 Award</a>
 						  <a href="worldCupForm.ut">World Cup</a>
+						  <a href="kakaoPay.pay">kakaoPay</a>
 					  </div>
 		          </li>
 	          </div>

@@ -16,17 +16,11 @@ import org.springframework.web.servlet.ModelAndView;
 			return mv;
 			
 		}
-//		
-//		
-//		@RequestMapping("worldCup.fr")
-//		public ModelAndView wouldCup2(ModelAndView mv) {
-//			
-//			
-//			WorldCup.main(null);
-//			mv.setViewName("board/playground/playGround");
-//			return mv;
-//			
-//		}
 		
+
 		
 	}
+
+		
+		
+	

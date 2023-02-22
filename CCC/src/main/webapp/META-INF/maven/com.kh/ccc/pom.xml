@@ -12,6 +12,7 @@
 		<org.springframework-version>5.3.24</org.springframework-version>
 		<org.aspectj-version>1.6.10</org.aspectj-version>
 		<org.slf4j-version>1.6.6</org.slf4j-version>
+		<packaging>war</packaging>
 	</properties>
 	<dependencies>
 		<!-- Spring -->
@@ -241,6 +242,18 @@
 		    <groupId>org.apache.poi</groupId>
 		    <artifactId>poi-ooxml-schemas</artifactId>
 		    <version>4.1.2</version>
+		</dependency>
+		<dependency>
+		  <groupId>org.springframework.boot</groupId>
+		  <artifactId>spring-boot-starter-tomcat</artifactId>
+		  <version>2.5.1</version>
+		</dependency>
+		
+		
+		<dependency>
+		    <groupId>org.springframework.boot</groupId>
+		      <artifactId>spring-boot-starter-tomcat</artifactId>
+		      <scope>provided</scope> <!-- 안되어 있는 경우 변경! -->
 		</dependency>
 
 	</dependencies>
